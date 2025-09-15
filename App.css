@@ -1,0 +1,13 @@
+/* src/App.css */
+.app-container {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.product-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
